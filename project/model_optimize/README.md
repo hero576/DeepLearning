@@ -3,7 +3,7 @@
 - 模型选择之后，超参的确定，模型拟合的程度，都需要模型调优使得模型以更加适合所训练的任务。
 
 # 调优方向[^1]
-[^1][连接](https://blog.csdn.net/weixin_37352167/article/details/84749036)
+[^1]:[连接](https://blog.csdn.net/weixin_37352167/article/details/84749036)
 
 - 模型调优，首先应解决欠拟合问题，其次再解决过拟合问题。否则即便是过拟合控制得很好（训练精度与测试精度非常接近），但拟合程度却依然很低，达不到目的。
 - 更主要的，是从数据的特征入手，好的特征工程决定预测结果的上限。
@@ -41,7 +41,7 @@
 
 # 调优方法
 ## 交叉验证[^2]
-[^2][连接](https://www.cnblogs.com/zhangfengxian/p/10561147.html)
+[^2]:[连接](https://www.cnblogs.com/zhangfengxian/p/10561147.html)
 
 **目的**
 - 为了让被评估的模型更加准确可信
@@ -60,7 +60,7 @@
 
 
 ## 模型压缩[^3]
-[^3][连接](https://www.cnblogs.com/qccz123456/p/12322127.html)
+[^3]:[连接](https://www.cnblogs.com/qccz123456/p/12322127.html)
 
 - 深度学习模型优化的方法
 
